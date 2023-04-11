@@ -1,0 +1,4 @@
+ElephantSQL hosts the DB 
+
+name: car_dealership
+connection string: postgres://gobajgpr:55Dp5xIDDzYXeoLdL2mZs_olI4LwiE78@raja.db.elephantsql.com/gobajgpr
